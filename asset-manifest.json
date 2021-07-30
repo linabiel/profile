@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/profile/static/css/main.08414c08.chunk.css",
+    "main.js": "/profile/static/js/main.528fdcc1.chunk.js",
+    "main.js.map": "/profile/static/js/main.528fdcc1.chunk.js.map",
+    "runtime-main.js": "/profile/static/js/runtime-main.16d704b4.js",
+    "runtime-main.js.map": "/profile/static/js/runtime-main.16d704b4.js.map",
+    "static/css/2.94f0a7d1.chunk.css": "/profile/static/css/2.94f0a7d1.chunk.css",
+    "static/js/2.c7426638.chunk.js": "/profile/static/js/2.c7426638.chunk.js",
+    "static/js/2.c7426638.chunk.js.map": "/profile/static/js/2.c7426638.chunk.js.map",
+    "static/js/3.69bac8c8.chunk.js": "/profile/static/js/3.69bac8c8.chunk.js",
+    "static/js/3.69bac8c8.chunk.js.map": "/profile/static/js/3.69bac8c8.chunk.js.map",
+    "index.html": "/profile/index.html",
+    "static/css/2.94f0a7d1.chunk.css.map": "/profile/static/css/2.94f0a7d1.chunk.css.map",
+    "static/css/main.08414c08.chunk.css.map": "/profile/static/css/main.08414c08.chunk.css.map",
+    "static/js/2.c7426638.chunk.js.LICENSE.txt": "/profile/static/js/2.c7426638.chunk.js.LICENSE.txt",
+    "static/media/project.css": "/profile/static/media/weather.3736e064.jpeg",
+    "static/media/baldurslide.32119391.jpeg": "/profile/static/media/baldurslide.32119391.jpeg",
+    "static/media/index.css": "/profile/static/media/diagonals.6a94fd4c.jpeg",
+    "static/media/slick-theme.css": "/profile/static/media/slick.c94f7671.ttf",
+    "static/media/travelslide.9b94a4f1.jpeg": "/profile/static/media/travelslide.9b94a4f1.jpeg",
+    "static/media/weatherslide.a94d85b7.jpeg": "/profile/static/media/weatherslide.a94d85b7.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.16d704b4.js",
+    "static/css/2.94f0a7d1.chunk.css",
+    "static/js/2.c7426638.chunk.js",
+    "static/css/main.08414c08.chunk.css",
+    "static/js/main.528fdcc1.chunk.js"
+  ]
+}
