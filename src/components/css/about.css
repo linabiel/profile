@@ -1,0 +1,40 @@
+#main-container {
+    margin-left: 300px;
+    margin-right: 300px;
+    margin-top: 50px;
+    overflow-anchor: none;
+}
+
+.main-about {
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    color: #f4a261;
+    text-align: justify;
+    line-height: 1.8;
+    flex-direction: column;
+    font-size: large;
+    font-weight: 300;
+    padding-top: 3vh;
+    padding-bottom: 5vh;
+}
+
+.cc-grad {
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    color: #00f5d4;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #ff0054;
+  }
+  
+a:active {
+    color: black;
+}
+
+
+
+  
